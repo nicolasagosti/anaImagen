@@ -1,0 +1,11 @@
+body{
+    background-color: black;
+}
+.container {
+    display: flex; /* Establece el contenedor como un contenedor flexbox */
+    justify-content: center; /* Centra el contenido horizontalmente */
+}
+.imagen{
+    justify-content: center;
+    align-items: center;
+}
